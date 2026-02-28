@@ -1,7 +1,7 @@
 import About from "./Components/About"
 import Contact from "./Components/Contact"
-import Hero from "./components/Hero"
-import Navbar from "./components/Navbar"
+import Hero from "./Components/Hero"
+import Navbar from "./Components/Navbar"
 import Projects from "./Components/Projects"
 import Skills from "./Components/Skills"
 
